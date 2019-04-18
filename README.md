@@ -150,18 +150,18 @@ Here are few examples,
 
 <table>
 <td> 
-<img src="images/cc.jpg" style="width:500;height:500px;"> <br>
+<img src="images/test5.jpg" style="width:500;height:500px;"> <br>
 </td> 
 <td> 
-<img src="out/cc.jpg" style="width:500;height:500px;"> <br>
+<img src="out/test5.jpg" style="width:500;height:500px;"> <br>
 </td> 
 </table>
 <table>
 <td> 
-<img src="images/firedog.jpg" style="width:500;height:500px;"> <br>
+<img src="images/test2.jpg" style="width:500;height:500px;"> <br>
 </td> 
 <td> 
-<img src="out/firedog.jpg" style="width:500;height:500px;"> <br>
+<img src="out/test2.jpg" style="width:500;height:500px;"> <br>
 </td> 
 </table>
 <table>
