@@ -148,7 +148,7 @@ Training a YOLO model takes a very long time and requires a fairly large dataset
 
 ***
 Here are few examples, 
-<hr>
+
 <table>
 <td> 
 <img src="images/cc.jpg" style="width:500;height:500px;"> <br>
@@ -157,7 +157,6 @@ Here are few examples,
 <img src="out/cc.jpg" style="width:500;height:500px;"> <br>
 </td> 
 </table>
-<hr>
 <table>
 <td> 
 <img src="images/firedog.jpg" style="width:500;height:500px;"> <br>
@@ -166,7 +165,6 @@ Here are few examples,
 <img src="out/firedog.jpg" style="width:500;height:500px;"> <br>
 </td> 
 </table>
-<hr>
 <table>
 <td> 
 <img src="images/dog.jpg" style="width:500;height:500px;"> <br>
@@ -175,7 +173,6 @@ Here are few examples,
 <img src="out/dog.jpg" style="width:500;height:500px;"> <br>
 </td> 
 </table>
-<hr>
 <table>
 <td> 
 <img src="images/check5.jpg" style="width:500;height:500px;"> <br>
@@ -185,7 +182,9 @@ Here are few examples,
 </td> 
 </table>
 
-**References**: The ideas presented in this notebook came primarily from the two YOLO papers. The implementation here also took significant inspiration and used many components from Allan Zelener's github repository. The pretrained weights used in this exercise came from the official YOLO website. 
+***
+**References**: 
+The ideas presented in this notebook came primarily from the two YOLO papers. The implementation here also took significant inspiration and used many components from Allan Zelener's github repository. The pretrained weights used in this exercise came from the official YOLO website. 
 - Joseph Redmon, Santosh Divvala, Ross Girshick, Ali Farhadi - [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640) (2015)
 - Joseph Redmon, Ali Farhadi - [YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242) (2016)
 - Allan Zelener - [YAD2K: Yet Another Darknet 2 Keras](https://github.com/allanzelener/YAD2K)
