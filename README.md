@@ -180,6 +180,22 @@ Here are few examples,
 <img src="out/check5.jpg" style="width:500;height:500px;"> <br>
 </td> 
 </table>
+<table>
+<td> 
+<img src="images/test4.jpg" style="width:500;height:500px;"> <br>
+</td> 
+<td> 
+<img src="out/test4.jpg" style="width:500;height:500px;"> <br>
+</td> 
+</table>
+<table>
+<td> 
+<img src="images/firedog.jpg" style="width:500;height:500px;"> <br>
+</td> 
+<td> 
+<img src="out/firedog.jpg" style="width:500;height:500px;"> <br>
+</td> 
+</table>
 
 ***
 **References**: 
