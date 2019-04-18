@@ -8,12 +8,11 @@ We will learn about object detection using the very powerful YOLO model. Many of
 
 ## 1 - Problem Statement
 You are working on a self-driving car. As a critical component of this project, you'd like to first build a car detection system. To collect data, you've mounted a camera to the hood (meaning the front) of the car, which takes pictures of the road ahead every few seconds while you drive around. 
-
-<img src="nb_images/1.gif" style="width:750px;height:200px;">
+ <p align="center"><img src="nb_images/1.gif" style="width:750px;height:200px;"></p>
 
 <p align="center"><strong> Pictures taken from a car-mounted camera while driving around Silicon Valley. <br> We would like to especially thank <a href="https://www.drive.ai/">drive.ai</a> for providing this dataset! Drive.ai is a company building the brains of self-driving vehicles.</strong></p>
 
-<img src="nb_images/driveai.png" style="width:100px;height:100;">
+ <p align="center"> <img src="nb_images/driveai.png" style="width:100px;height:100;"> </p>
 
 You've gathered all these images into a folder and have labelled them by drawing bounding boxes around every car you found. Here's an example of what your bounding boxes look like.
 
