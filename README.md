@@ -19,7 +19,7 @@ You've gathered all these images into a folder and have labelled them by drawing
 <img src="nb_images/box_label.png" style="width:500px;height:250;">
 <p align="center"><strong><u>Figure 1</u>: Definition of a box</strong><p>
 
-If you have 80 classes that you want YOLO to recognize, you can represent the class label $c$ either as an integer from 1 to 80, or as an 80-dimensional vector (with 80 numbers) one component of which is 1 and the rest of which are 0. 
+If you have 80 classes that you want YOLO to recognize, you can represent the class label **c** either as an integer from 1 to 80, or as an 80-dimensional vector (with 80 numbers) one component of which is 1 and the rest of which are 0. 
 
 In this exercise, we will learn how YOLO works, then apply it to car detection. Because the YOLO model is very computationally expensive to train, we will load pre-trained weights for you to use. 
 
